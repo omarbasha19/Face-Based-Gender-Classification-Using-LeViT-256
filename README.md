@@ -679,35 +679,8 @@ Possible future improvements include:
 - add unit tests for preprocessing and inference
 - improve dataset documentation
 
-## Citation Style
 
-If this project is used in academic work, cite the main tools and libraries used.
 
-Suggested citation text:
-
-```text
-This project used PyTorch and torchvision for deep learning development, timm for the LeViT-256 pretrained model, scikit-learn for evaluation metrics, OpenCV for live image capture and face detection, and Gradio for the user interface.
-```
-
-## Author
-
-Add your name here.
-
-```text
-Name: Your Name
-Field: Artificial Intelligence / Computer Vision
-Project Type: Academic Deep Learning Project
-```
-
-## License
-
-Add your preferred license.
-
-Recommended for academic GitHub projects:
-
-```text
-MIT License
-```
 
 ## Summary
 
